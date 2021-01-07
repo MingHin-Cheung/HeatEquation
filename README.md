@@ -1,6 +1,6 @@
 # Heat Equation
 
-# Solve the heat equation below using the methods:
+Solve the heat equation below using the methods:
 
 - The Forward Time Centered Space Method(Explicit);
 
